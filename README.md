@@ -1,1 +1,3 @@
 # Dynamic-Memory-Manager
+
+Custom malloc and free implementation with good documentation with an additional memory leak detector in the making...
